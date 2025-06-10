@@ -1,2 +1,6 @@
-# colgatecollar.github.io
-im trynna make a website cause i know barely but some html so yeah
+<!DOCTYPE html>
+<html>
+  <body>
+    <meta http-equiv="refresh" content="1;url=colgatecollar.github.io">
+  </body>
+</html>
