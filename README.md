@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <meta http-equiv="refresh" content="1;url=colgatecollar.github.io">
+    <meta http-equiv="refresh" content="1;url=lander.html">
   </body>
 </html>
